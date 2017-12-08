@@ -1,3 +1,12 @@
+var x = "neha";
+function y(){
+  alert("x");
+  alert(x);
+  x = 'Jyoti';
+}
+y();
+
+
 function toTitleCase()
 {
   alert("hello");
